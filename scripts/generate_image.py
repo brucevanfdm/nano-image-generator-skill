@@ -2,6 +2,8 @@
 """
 Nano Image Generator - Generate images using Google's Gemini 3 Pro Preview API.
 
+[modify]
+
 Requires: Set your GEMINI_API_KEY in the get_api_key() function below.
 
 Usage:
